@@ -1,0 +1,12 @@
+pf_id,pf_title,pf_desc,pf_content,pf_type,pf_not_null,pf_member_hide,pf_max_input,pf_member_edit,pf_position,pf_show_on_reg,pf_input_format,pf_admin_only,pf_topic_format,pf_group_id,pf_icon,pf_key,pf_search_type,pf_filtering
+1,AIM,"","",input,0,0,0,1,0,0,"",0,"",1,style_extra/cprofile_icons/profile_aim.gif,aim,loose,0
+2,MSN,"","",input,0,0,0,1,0,0,"",0,"",1,style_extra/cprofile_icons/profile_msn.gif,msn,loose,0
+3,"Website URL","","",input,0,0,0,1,0,0,"",0,"",1,style_extra/cprofile_icons/profile_website.gif,website,loose,0
+4,ICQ,"","",input,0,0,0,1,0,0,"",0,"",1,style_extra/cprofile_icons/profile_icq.gif,icq,loose,0
+5,Gender,"","u=Not Telling|m=Male|f=Female",drop,0,0,0,1,2,0,"",0,"",2,"",gender,loose,0
+6,Location:,"","",input,0,0,0,1,3,0,"",0,"<span class='ft'>{title}</span><span class='fc'>{content}</span>",2,"",location,loose,0
+7,Interests:,"","",textarea,0,0,0,1,4,0,"",0,"",2,"",interests,loose,0
+8,Yahoo,"","",input,0,0,0,1,0,0,"",0,"",1,style_extra/cprofile_icons/profile_yahoo.gif,yahoo,loose,0
+9,Jabber,"","",input,0,0,0,1,0,0,"",0,"",1,style_extra/cprofile_icons/profile_jabber.gif,jabber,loose,0
+10,Skype,"","",input,0,0,0,1,0,0,"",0,"",1,style_extra/cprofile_icons/profile_skype.gif,skype,loose,0
+11,Ideology,"","",input,1,0,0,1,1,1,"",0,"<span class=""ft"">{title}:</span><span class=""fc"">{content}</span>",2,"",ideology,exact,0

@@ -1,0 +1,11 @@
+login_key,login_settings,login_order,login_acp,login_enabled
+Internal,"{""auth_types"":1}",1,1,1
+Ldap,"{""auth_types"":1}",4,0,0
+External,"{""auth_types"":1}",5,0,0
+Facebook,"{""app_id"":null,""app_secret"":null,""real_name"":false}",6,0,0
+Twitter,"{""consumer_key"":null,""consumer_secret"":null,""name"":false}",7,0,0
+Live,[],8,0,0
+Linkedin,[],9,0,0
+Google,[],10,0,0
+Ipsconnect,[],11,0,0
+Convert,[],12,0,0

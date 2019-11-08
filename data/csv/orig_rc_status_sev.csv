@@ -1,0 +1,12 @@
+id,status,points,img,is_png,width,height
+1,1,1,style_extra/report_icons/flag_gray.png,1,16,16
+2,1,2,style_extra/report_icons/flag_blue.png,1,16,16
+3,1,4,style_extra/report_icons/flag_green.png,1,16,16
+4,1,7,style_extra/report_icons/flag_orange.png,1,16,16
+5,1,12,style_extra/report_icons/flag_red.png,1,16,16
+6,2,1,style_extra/report_icons/flag_gray_review.png,1,16,16
+7,3,0,style_extra/report_icons/completed.png,1,16,16
+8,2,2,style_extra/report_icons/flag_blue_review.png,1,16,16
+9,2,4,style_extra/report_icons/flag_green_review.png,1,16,16
+10,2,7,style_extra/report_icons/flag_orange_review.png,1,16,16
+11,2,12,style_extra/report_icons/flag_red_review.png,1,16,16

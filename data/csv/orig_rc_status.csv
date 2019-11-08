@@ -1,0 +1,4 @@
+status,title,points_per_report,minutes_to_apoint,is_new,is_complete,is_active,rorder
+1,"New Report",1,5.0,1,0,1,1
+2,"Under Review",1,5.0,0,0,1,2
+3,Complete,0,0.0,0,1,0,3

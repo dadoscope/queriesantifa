@@ -1,0 +1,42 @@
+sys_module_id,sys_module_title,sys_module_application,sys_module_key,sys_module_description,sys_module_version,sys_module_protected,sys_module_visible,sys_module_position,sys_module_admin
+1,Global,core,global,"Global functions such as logging in, registering, etc",1.0.0,1,1,1,0
+2,"User CP",core,usercp,"The user&#39;s control panel",1.0.0,1,1,2,0
+3,"Task Manager",core,task,"Runs the tasks",1.0.0,1,1,3,0
+4,Attachments,core,attach,"Attachments handling",1.0.0,1,1,4,0
+5,Logs,core,logs,"Various IP.Board Logs",1.0.0,1,1,1,1
+6,"Look &amp; Feel",core,templates,"Manage your templates and CSS",1.0.0,1,1,1,1
+7,"My Control Panel",core,mycp,"View your tasks, calendars and topics",1.0.0,1,1,1,1
+8,Diagnostics,core,diagnostics,"",1.0.0,1,1,2,1
+9,"System Settings",core,settings,"Manage your system settings",1.0.0,1,1,2,1
+10,"Post Content",core,posts,"Manage BBCode, banned words and more",1.0.0,1,1,2,1
+11,Languages,core,languages,"Admin interface for managing languages",3.0.0,1,1,3,1
+12,"Tools &amp; Settings",core,tools,"Manage tools and settings for this installtion",1.0.0,1,1,3,1
+13,"Applications &amp; Modules",core,applications,"Manage tools and settings for this installtion",1.0.0,1,1,4,1
+14,"Report Center",core,report,"Admin interface for managing reported content",3.0.0,1,1,7,1
+15,System,core,system,"Manage your security center, languages, etc.",1.0.0,1,1,9,1
+16,"SQL Management",core,sql,"",1.0.0,1,1,11,1
+17,"Help &amp; Support",core,help,"",1.0.0,1,1,12,1
+18,Messaging,members,messaging,"Personal Messaging Features",1.0.0,1,1,0,0
+19,"Member List",members,list,"Displays the member list",1.0.0,1,1,0,0
+20,"Online List",members,online,"Displays the online member list",1.0.0,1,1,0,0
+21,Profile,members,profile,"View members profiles",1.0.0,1,1,0,0
+22,Members,members,members,"Manage Members",1.0.0,1,1,1,1
+23,"Member Groups",members,groups,"Manage Member Groups",1.0.0,1,1,2,1
+24,"Custom Profile Fields",members,cfields,"Manage your custom profile fields and profile field groups",1.0,1,1,3,1
+25,"Bulk Mail",members,bulkmail,"Manage your bulk mail",1.0.0,1,1,5,1
+26,"Manage Admin Restrictions",members,restrictions,"Allows you to manage user and group ACP restrictions",1.0.0,0,1,6,1
+27,Forums,forums,forums,"Interact with forums",1.0.0,1,1,0,0
+28,Posting,forums,post,"Functions for making forum topics and posts",1.0.0,1,1,1,0
+29,Forums,forums,forums,"Manage Forums",1.0.0,1,1,0,1
+30,"Post Attachments",forums,attachments,"Manage post attachments",1.0.0,1,1,1,1
+31,Tools,forums,tools,"Delete posts, etc",1.0.0,1,1,2,1
+32,"Statistics Center",forums,statistics,"",1.0.0,1,1,3,1
+33,"RSS Management",forums,rss,"",1.0.0,1,1,4,1
+34,"Mobile App",core,mobileapp,"Handles mobile application skins",1.0.0,1,1,22,1
+35,"SEO Advice",core,seo,"","",1,1,23,1
+36,Archiving,forums,archive,"Module to manage post archiving",1.0.0,1,1,19,1
+37,Warnings,members,warnings,"",3.2,0,1,4,1
+38,"Public Calendar",calendar,calendar,"",1.0.0,1,1,0,0
+39,"Calendar Management",calendar,calendar,"",1.0.0,1,1,0,1
+40,"Calendar Settings",calendar,settings,"",1.0.0,1,1,1,1
+41,"Import iCalendar Feeds",calendar,icalendar,"Management of iCalendar feed imports",1.0,1,1,18,1

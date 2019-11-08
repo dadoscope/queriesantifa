@@ -1,0 +1,62 @@
+log_id,log_member,log_date,log_error,log_error_code,log_ip_address,log_request_uri
+103737,0,1454043554,"You are not allowed to visit this community.",2000,69.120.10.64,/
+103738,0,1454043556,"You are not allowed to visit this community.",2000,69.120.10.64,/index.php?s=52d5d41d713b62a50f88d900b9e147f9&app=core&module=task
+103739,0,1454699478,"You are not allowed to visit this community.",2000,69.120.10.64,/
+103740,7424,1455082483,"You cannot split all posts within this topic to another topic.  You must leave at least one post in this topic.",10375,172.98.87.54,/index.php?app=forums&module=moderate&section=moderate
+103741,0,1455249727,"You are not allowed to visit this community.",2000,69.120.10.64,/
+103742,9888,1455320363,"You are not allowed to visit this community. ",1001,195.228.45.176,/index.php?&app=core&module=global&section=login&do=autologin&fromreg=1
+103743,9888,1455320376,"You are not allowed to visit this community. ",1001,195.228.45.176,/index.php?app=core&module=help
+103744,9888,1455320421,"You are not allowed to visit this community. ",1001,195.228.45.176,/index.php?/forum/171-jewish-question/
+103745,9888,1455320432,"You are not allowed to visit this community. ",1001,195.228.45.176,/index.php?/user/9888-tuberose/
+103746,9888,1455320454,"You are not allowed to visit this community. ",1001,195.228.45.176,/index.php?app=core&module=help
+103747,9888,1455320636,"You are not allowed to visit this community. ",1001,195.228.45.176,/index.php?app=core&module=global&section=register&do=reval
+103748,9888,1455320655,"You are not allowed to visit this community. ",1001,195.228.45.176,/index.php?app=core&module=global&section=register&do=reval
+103749,9888,1455320662,"You are not allowed to visit this community. ",1001,195.228.45.176,/index.php?app=core&module=help
+103750,9888,1455320673,"You are not allowed to visit this community. ",1001,195.228.45.176,/index.php?/user/9888-tuberose/
+103751,9888,1455320678,"You are not allowed to visit this community. ",1001,195.228.45.176,/index.php?/user/9888-tuberose/
+103752,9888,1455320688,"You are not allowed to visit this community. ",1001,195.228.45.176,/index.php?app=core&module=search&search_in=members
+103753,9888,1455320698,"You are not allowed to visit this community. ",1001,195.228.45.176,/index.php?app=core&module=global&section=login&do=logout&k=c96582b332249d7a5a1a1c2ae3ed9e8e
+103754,9888,1455320702,"You are not allowed to visit this community. ",1001,195.228.45.176,/index.php?app=core&module=global&section=login&do=logout&k=c96582b332249d7a5a1a1c2ae3ed9e8e
+103755,9888,1455323231,"You are not allowed to visit this community. ",1001,65.19.167.130,/
+103756,9888,1455323246,"You are not allowed to visit this community. ",1001,65.19.167.130,/index.php?/user/9888-tuberose/
+103757,9888,1455323262,"You are not allowed to visit this community. ",1001,65.19.167.130,/index.php?/user/9888-tuberose/
+103758,9888,1455323276,"You are not allowed to visit this community. ",1001,65.19.167.130,/index.php?app=core&module=search&search_in=members
+103759,9888,1455323280,"You are not allowed to visit this community. ",1001,65.19.167.130,/
+103760,9888,1455323291,"You are not allowed to visit this community. ",1001,65.19.167.130,/index.php?app=core&module=help
+103761,9888,1455323302,"You are not allowed to visit this community. ",1001,65.19.167.130,/index.php?app=core&module=global&section=login&do=logout&k=c96582b332249d7a5a1a1c2ae3ed9e8e
+103762,9888,1455323315,"You are not allowed to visit this community. ",1001,65.19.167.130,/index.php?app=core&module=global&section=login&do=logout&k=c96582b332249d7a5a1a1c2ae3ed9e8e
+103763,0,1455762970,"You are not allowed to visit this community.",2000,69.120.10.64,/
+103764,0,1455857076,"You are not allowed to visit this community.",2000,69.120.10.64,/
+103765,0,1456023462,"You are not allowed to visit this community.",2000,69.120.10.64,/
+103766,0,1456023464,"You are not allowed to visit this community.",2000,69.120.10.64,/index.php?s=07a9dc6afb46cb19a24348d398fe79ba&app=core&module=task
+103767,0,1456025292,"You are not allowed to visit this community.",2000,69.120.10.64,/
+103768,0,1456026898,"You are not allowed to visit this community.",2000,69.120.10.64,/
+103769,0,1456027241,"You are not allowed to visit this community.",2000,69.120.10.64,/
+103770,0,1456032270,"You are not allowed to visit this community. ",1001,43.249.38.98,/index.php?&app=core&module=global&section=login&do=autologin&fromreg=1
+103771,0,1456032292,"You are not allowed to visit this community. ",1001,43.249.38.98,/
+103772,0,1456032323,"You are not allowed to visit this community. ",1001,43.249.38.98,/
+103773,0,1456032338,"You are not allowed to visit this community. ",1001,43.249.38.98,/index.php?/members/
+103774,0,1456032343,"You are not allowed to visit this community. ",1001,43.249.38.98,/index.php?app=core&module=help
+103775,0,1456074735,"You are not allowed to visit this community. ",1001,92.20.145.131,/
+103776,0,1456074742,"You are not allowed to visit this community. ",1001,92.20.145.131,/
+103777,0,1456074745,"You are not allowed to visit this community. ",1001,92.20.145.131,/index.php?app=core&module=global&section=login&do=logout&k=0503ae31d41a0d5d97562ec80e87dd56
+103778,0,1456074751,"You are not allowed to visit this community. ",1001,92.20.145.131,/index.php?app=core&module=global&section=login&do=logout&k=0503ae31d41a0d5d97562ec80e87dd56
+103779,0,1456106781,"You are not allowed to visit this community. ",1001,2.97.164.139,/
+103780,0,1456107693,"You are not allowed to visit this community. ",1001,2.97.164.139,/index.php?/calendar/
+103781,0,1456107694,"You are not allowed to visit this community. ",1001,2.97.164.139,/index.php?/calendar/
+103782,0,1456733583,"We could not determine which topic you were attempting to moderate.",103118,182.255.0.11,/index.php?
+103783,0,1456791641,"You are not allowed to visit this community. ",1001,173.245.203.69,/index.php?&app=core&module=global&section=login&do=autologin&fromreg=1
+103784,0,1456791660,"You are not allowed to visit this community. ",1001,173.245.203.69,/index.php?/user/9919-kaliyuga/
+103785,0,1456791665,"You are not allowed to visit this community. ",1001,173.245.203.69,/
+103786,0,1456791765,"You are not allowed to visit this community. ",1001,173.245.203.69,/index.php?app=core&module=global&section=register&do=reval
+103787,0,1456791786,"You are not allowed to visit this community. ",1001,173.245.203.69,/index.php?app=core&module=usercp
+103788,0,1456791818,"You are not allowed to visit this community. ",1001,173.245.203.69,/index.php?/user/9919-kaliyuga/
+103789,0,1456791848,"You are not allowed to visit this community. ",1001,173.245.203.69,/index.php?app=core&module=global&section=login&do=logout&k=662df4992cb4ff83a20814d5f9d7b057
+103790,0,1456791852,"You are not allowed to visit this community. ",1001,173.245.203.69,/index.php?app=core&module=global&section=login&do=logout&k=662df4992cb4ff83a20814d5f9d7b057
+103791,0,1456791954,"You are not allowed to visit this community. ",1001,173.245.203.69,/
+103792,0,1456791958,"You are not allowed to visit this community. ",1001,173.245.203.69,/index.php?app=core&module=global&section=register&do=reval
+103793,0,1456791970,"You are not allowed to visit this community. ",1001,173.245.203.69,/index.php?app=core&module=help
+103794,0,1456791976,"You are not allowed to visit this community. ",1001,173.245.203.69,/index.php?app=core&module=global&section=login&do=logout&k=662df4992cb4ff83a20814d5f9d7b057
+103795,9144,1457538762,"You cannot split all posts within this topic to another topic.  You must leave at least one post in this topic.",10375,101.173.3.208,/index.php?app=forums&module=moderate&section=moderate
+103796,9144,1457539393,"We could not determine which topic you were attempting to moderate.",103118,101.173.3.208,/index.php?app=forums&module=moderate&section=moderate
+103797,9144,1457790297,"We could not determine which topic you were attempting to moderate.",3033,101.173.3.208,/index.php?app=forums&module=moderate&section=moderate&t=6188&f=64&page=&auth_key=985947cc26d9aa7dc042f2646a14e048&_fromTopic=1&do=02

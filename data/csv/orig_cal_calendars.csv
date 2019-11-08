@@ -1,0 +1,11 @@
+cal_id,cal_title,cal_moderate,cal_position,cal_event_limit,cal_bday_limit,cal_rss_export,cal_rss_export_days,cal_rss_export_max,cal_rss_update,cal_rss_update_last,cal_rss_cache,cal_title_seo,cal_comment_moderate,cal_rsvp_owner
+1,"Fascist Calendar",1,0,6,0,1,14,20,1440,1458550669,"<?xml version=""1.0"" encoding=""UTF-8"" ?>
+<rss version=""2.0"">
+<channel>
+	<title>Fascist Calendar</title>
+	<link>http://ironmarch.org/index.php?/calendar/1-fascist-calendar</link>
+	<pubDate>Mon, 21 Mar 2016 08:57:49 +0000</pubDate>
+	<ttl>86400</ttl>
+	<description>Fascist Calendar</description>
+</channel>
+</rss>",fascist-calendar,0,1

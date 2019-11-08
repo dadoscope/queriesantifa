@@ -1,0 +1,2 @@
+id,method,configuration
+1,FileSystem,"{""dir"":""{root}\/uploads"",""url"":""uploads""}"

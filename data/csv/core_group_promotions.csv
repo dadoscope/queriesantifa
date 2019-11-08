@@ -1,0 +1,2 @@
+promote_id,promote_position,promote_enabled,promote_filters,promote_actions
+1,1,1,"{""core_Lastvisit"":{""range"":{""start"":"""",""end"":""""}},""core_Joined"":{""range"":{""start"":"""",""end"":""""}},""core_Group"":{""groups"":""3""},""core_Lastpost"":{""range"":{""start"":"""",""end"":""""}},""core_Content"":{""content_count_operator"":""eq"",""content_count_score"":""1""},""core_Reputation"":{""reputation_operator"":""any"",""reputation_score"":""0""}}","{""primary_group"":""17"",""secondary_group"":[],""secondary_remove"":[3]}"
